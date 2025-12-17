@@ -1,5 +1,5 @@
 # I'm Rajendra Mahadana 👋
 
-<p align="left">
+<div align="left">
   <img src="./banner.svg" />
-</p>
+</div>
