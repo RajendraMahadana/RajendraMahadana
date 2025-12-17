@@ -1,0 +1,78 @@
+<svg width="1000" height="140" viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Gradient Animation -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color"
+          values="#895af6ff; #EC4899; #5d0bf5ff; #8B5CF6"
+          dur="10s"
+          repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0dfff3ff">
+        <animate attributeName="stop-color"
+          values="#EC4899; #510bf5ff; #01d0ffff; #EC4899"
+          dur="10s"
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Text 1: Full Stack Developer -->
+  <text x="50%" y="85"
+        text-anchor="middle"
+        font-size="42"
+        font-weight="600"
+        font-family="Poppins, Arial, sans-serif"
+        fill="url(#gradient)"
+        filter="url(#glow)">
+    Full Stack Developer
+    <animate attributeName="opacity"
+      values="0;1;1;0;0;0"
+      keyTimes="0;0.1;0.23;0.33;0.67;1"
+      dur="15s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <!-- Text 2: Open Source Enthusiast -->
+  <text x="50%" y="85"
+        text-anchor="middle"
+        font-size="42"
+        font-weight="600"
+        font-family="Poppins, Arial, sans-serif"
+        fill="url(#gradient)"
+        filter="url(#glow)">
+     Always Learning New Things
+    <animate attributeName="opacity"
+      values="0;0;0;1;1;0;0"
+      keyTimes="0;0.3;0.37;0.47;0.56;0.66;1"
+      dur="15s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <!-- Text 3: Always Learning New Things -->
+  <text x="50%" y="85"
+        text-anchor="middle"
+        font-size="42"
+        font-weight="600"
+        font-family="Poppins, Arial, sans-serif"
+        fill="url(#gradient)"
+        filter="url(#glow)">
+    Always Loving You
+    <animate attributeName="opacity"
+      values="0;0;0;0;0;1;1;0"
+      keyTimes="0;0.63;0.67;0.7;0.8;0.87;0.96;1"
+      dur="15s"
+      repeatCount="indefinite"/>
+  </text>
+
+</svg>  
