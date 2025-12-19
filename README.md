@@ -1,4 +1,4 @@
-<h1 align="center">I'm Rajendra Mahadana Wira</h1>
+<h1 align="center">I'm Rajendra Mahadana Wira Desvana</h1>
 
 <div align="left">
   <img src="./banner.svg" />
