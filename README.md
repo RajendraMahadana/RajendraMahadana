@@ -1,4 +1,6 @@
-<h1 align="center">I'm Rajendra Mahadana Wira Desvana</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header"/>
+</p>
 
 <div align="left">
   <img src="./banner.svg" />
