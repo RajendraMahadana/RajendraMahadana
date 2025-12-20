@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4500&pause=2000&color=94A3B8&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+maintainable+web+applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4500&pause=2000&color=94A3B8&center=true&vCenter=true&width=500&lines=Hello+Word;I'am+Rajendra+Mahadana+Wira+Desvana" />
 </p>
 
 <div align="left">
