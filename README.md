@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4500&pause=2000&color=94A3B8&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+maintainable+web+applications" />
 </p>
 
 <div align="left">
